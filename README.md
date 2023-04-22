@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=purpledev1337)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=purpledev1337&theme=purple-orange)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=purpledev1337)
