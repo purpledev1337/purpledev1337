@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **purpledev1337/purpledev1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=purpledev1337&theme=purple-orange)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=purpledev1337&theme=vue-dark&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=purpledev1337)
