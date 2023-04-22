@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=purpledev1337&theme=vue-dark&border_radius=20&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=purpledev1337&theme=github-dark&border_radius=20&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=600)](https://git.io/streak-stats)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=purpledev1337)
